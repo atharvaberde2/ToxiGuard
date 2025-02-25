@@ -4,3 +4,4 @@ tensorflow
 huggingface_hub
 tf-keras
 lime
+openai
