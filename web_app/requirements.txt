@@ -2,3 +2,4 @@ streamlit
 transformers
 tensorflow
 huggingface_hub
+tf-keras
