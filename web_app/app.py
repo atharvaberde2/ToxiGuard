@@ -16,7 +16,7 @@ import openai
 import os
 
 # Log in (only needed once)
-login(token="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") 
+login(token="*******************") 
 
 
 
